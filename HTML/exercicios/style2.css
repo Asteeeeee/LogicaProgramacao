@@ -1,0 +1,29 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.body {
+    height: 100vh;
+    box-sizing: border-box;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    height: 400px;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
+.texto-destaque {
+    color: red;
+}
+
+.titulo-blog {
+    color: red; 
+}
+
+.urgente {
+    color: red;
+}
